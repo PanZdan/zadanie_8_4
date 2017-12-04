@@ -1,14 +1,4 @@
-// scripts.js
+var B = 2;
 
-// komentarz liniowy
-
-/*
-komentarz bolokowy
-var name = prompt('Enter your name');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);
-*/
-
-var name = prompt('Enter your name');
-// alert('Hello, ' + name);
-console.log('Hello, ' + name);
+A = ++A + B++;
+B = 2 * a;
